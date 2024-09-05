@@ -1,2 +1,1 @@
-# prepcourse-lorena
-este es un repositorio del módulo 2 de curso de henry
+este proyecto es una pruba de como crear un repositorio y clonarlo desde github a mi escritorio local
